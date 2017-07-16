@@ -1,0 +1,62 @@
+introduction about the course
+
+- create ecommerce 
+- multiingual
+- responsive 
+- jquery
+- plain php [ no oop , no mvc ]
+- PDO
+
+===================================================================================================
+what  I need to learn this course ?
+
+- HTML
+- CSS
+- jquery
+- Bootstrap
+- PHP 
+- MQsql
+- PDO
+
+->Editor
+
+- AptanaSTUDIO
+- Netbeans
+- PHP strom
+
+=====================================================================================================
+simple analysis --> how to make perfict analysis ?
+
+=> pages & features
+- settings 
+- Dashboard
+- Statistics
+- Log 
+- Users
+- Comments
+=====================================================================================================
+Create project structure --> how to build php project ? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
